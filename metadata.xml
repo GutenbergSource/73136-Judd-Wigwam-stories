@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Generated on 2024-03-24T20:20:17Z. -->
+<!-- Generated on 2026-01-03T09:50:07Z. -->
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
          xmlns:dc="http://purl.org/dc/elements/1.1/">
    <rdf:Description>
       <dc:title>Wigwam stories told by North American Indians</dc:title>
       <dc:title>Wigwam stories</dc:title>
-      <dc:creator>Mary Catherine Judd</dc:creator>
+      <dc:creator>Mary Catherine Judd (1852–1937)</dc:creator>
       <dc:creator>Henook-Makhewe-Kelenaka (1868–1919)</dc:creator>
       <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2024-03-10</dc:publisher>
       <dc:date>2024-03-10</dc:date>
@@ -13,6 +13,8 @@
 This eBook is produced by the Online Distributed Proofreading Team at www.pgdp.net.
 
 </dc:rights>
+      <dc:subject>Indians of North America</dc:subject>
+      <dc:subject>Indians of North America -- Folklore</dc:subject>
       <dc:identifier>pg:73136</dc:identifier>
    </rdf:Description>
 </rdf:RDF>

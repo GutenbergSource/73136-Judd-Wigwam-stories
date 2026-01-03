@@ -1,6 +1,7 @@
 <!DOCTYPE TEI.2 PUBLIC "-//TEI//DTD TEI Lite 1.0//EN" [
 
     <!ENTITY Abreve   CDATA "&#x0102;"    --       5 -->
+    <!ENTITY Adota    CDATA "&#x0226;"    --       1 -->
     <!ENTITY Amacr    CDATA "&#x0100;"    --       1 -->
     <!ENTITY Ebreve   CDATA "&#x0114;"    --       2 -->
     <!ENTITY Imacr    CDATA "&#x012A;"    --       2 -->
@@ -10,6 +11,7 @@
     <!ENTITY Ubreve   CDATA "&#x016C;"    --       1 -->
     <!ENTITY Umacr    CDATA "&#x016A;"    --       2 -->
     <!ENTITY abreve   CDATA "&#x0103;"    --      23 -->
+    <!ENTITY adota    CDATA "&#x0227;"    --      19 -->
     <!ENTITY adotb    CDATA "&#x1EA1;"    --       1 -->
     <!ENTITY aibrevb  CDATA "a&#x032F;"   --       7 -->
     <!ENTITY amacr    CDATA "&#x0101;"    --      21 -->
@@ -20,15 +22,15 @@
     <!ENTITY ebreve   CDATA "&#x0115;"    --      17 -->
     <!ENTITY eemacr   CDATA "e&#x035E;e"  --      20 -->
     <!ENTITY eibrevb  CDATA "e&#x032F;"   --       5 -->
-    <!ENTITY emacr    CDATA "&#x0113;"    --      35 -->
-    <!ENTITY etilde   CDATA "&#x1EBD;"    --       1 -->
+    <!ENTITY emacr    CDATA "&#x0113;"    --      34 -->
+    <!ENTITY etilde   CDATA "&#x1EBD;"    --       2 -->
     <!ENTITY ibreve   CDATA "&#x012D;"    --      30 -->
     <!ENTITY iibrevb  CDATA "i&#x032F;"   --       2 -->
     <!ENTITY imacr    CDATA "&#x012B;"    --      14 -->
     <!ENTITY ldquo    CDATA "&#x201C;"    --     376 -->
     <!ENTITY lsquo    CDATA "&#x2018;"    --       5 -->
     <!ENTITY mdash    CDATA "&#x2014;"    --       9 -->
-    <!ENTITY ndash    CDATA "&#x2013;"    --       1 -->
+    <!ENTITY ndash    CDATA "&#x2013;"    --       2 -->
     <!ENTITY obreve   CDATA "&#x014F;"    --      16 -->
     <!ENTITY odota    CDATA "&#x022F;"    --       1 -->
     <!ENTITY odotb    CDATA "&#x1ECD;"    --       1 -->
@@ -56,7 +58,7 @@
 <titleStmt>
 <title>Wigwam stories told by North American Indians</title>
 <title type=short>Wigwam stories</title>
-<author key="Judd, Mary Catherine" ref="https://viaf.org/viaf/26619728/">Mary Catherine Judd</author>
+<author key="Judd, Mary Catherine" ref="https://viaf.org/viaf/26619728/">Mary Catherine Judd (1852&ndash;1937)</author>
 <respStmt><resp>Illustrator</resp> <name key="Henook-Makhewe-Kelenaka" ref="https://viaf.org/viaf/119652129/">Henook-Makhewe-Kelenaka (1868&ndash;1919)</name></respStmt>
 <respStmt><resp>Transcription</resp> <name key="Hellingman, Jeroen">Jeroen Hellingman</name></respStmt>
 </titleStmt>
@@ -115,12 +117,13 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
     <textClass>
         <keywords>
             <list>
-                <item>#####</item>
+                <item>Indians of North America</item>
+                <item>Indians of North America -- Folklore</item>
             </list>
         </keywords>
     </textClass>
     <listPrefixDef>
-        <prefixDef ident="f" matchPattern="(.+)" replacementPattern="https://www.pgdp.net/c/tools/page_browser.php?project=projectID650da023cac9f&amp;imagefile=$1.png&amp;mode=image">
+        <prefixDef ident="f" matchPattern="(.+)" replacementPattern="https://www.pgdp.net/c/tools/page_browser.php?project=${PGDPProjectId}&amp;imagefile=$1.png&amp;mode=image">
     </listPrefixDef>
 </profileDesc>
 <revisionDesc>
@@ -381,7 +384,7 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 <item><ref target=p095>Alaskan Indian Women with Baskets</ref>          <ab type=tocPageNum>95</ab>
 <item><ref target=p100>Moki Basket Weaver</ref>                <ab type=tocPageNum>100</ab>
 <item><ref target=p107>Kiowa Papoose in its Cradle</ref>              <ab type=tocPageNum>107</ab>
-<item><ref target=p118>Moki weaving  Clay Dishes and Tools</ref>         <ab type=tocPageNum>118</ab>
+<item><ref target=p118>Moki weaving. Clay Dishes and Tools</ref>         <ab type=tocPageNum>118</ab>
 <item><ref target=p126>Teepee Village</ref>                  <ab type=tocPageNum>126</ab>
 <item><ref target=p143>Minnehaha Falls in Summer</ref>              <ab type=tocPageNum>143</ab>
 <item><ref target=p150>Apache Woman with her Handiwork</ref>           <ab type=tocPageNum>150</ab>
@@ -389,14 +392,14 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 <item><ref target=p173>Pueblo Indian Pottery</ref>                <ab type=tocPageNum>173</ab>
 <item><ref target=p178>Dance of the Moki Antelope Priests</ref>           <ab type=tocPageNum>178</ab>
 <item><ref target=p188>Pueblo Indians watching a Sacred Dance</ref>          <ab type=tocPageNum>188</ab>
-<item><ref target=p195>Tu-me-na  Siwash Girl</ref>               <ab type=tocPageNum>195</ab>
+<item><ref target=p195>Tu-me-na. Siwash Girl</ref>               <ab type=tocPageNum>195</ab>
 <item><ref target=p203>Apache Scout ready for War Dance</ref>           <ab type=tocPageNum>203</ab>
 <item><ref target=p216>The Indian of To-day</ref>         <hi>Frontispiece</hi>, Part III      <ab type=tocPageNum>216</ab>
 <item><ref target=p225>Indian Basket Exhibit</ref>                <ab type=tocPageNum>225</ab>
 <item><ref target=p234>Indian Picture Writing on Stone</ref>            <ab type=tocPageNum>234</ab>
 <item><ref target=p238>Sioux Indians and Teepee</ref>               <ab type=tocPageNum>238</ab>
 <item><ref target=p247>Pueblo Women grinding Corn</ref>             <ab type=tocPageNum>247</ab>
-<item><ref target=p261>Adobe Houses  Pueblo Children near Kiva</ref>        <ab type=tocPageNum>261</ab>
+<item><ref target=p261>Adobe Houses. Pueblo Children near Kiva</ref>        <ab type=tocPageNum>261</ab>
 </list>
 
 
@@ -3783,7 +3786,7 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 <p rend=center>KEY TO MARKS OF PRONUNCIATION
 
 <list>
-<item>a: f&amacr;te, f&abreve;t, câre, ärm, &aumlb;ll, p&#x227;ss, wh&adotb;t.
+<item>a: f&amacr;te, f&abreve;t, câre, ärm, &aumlb;ll, p&adota;ss, wh&adotb;t.
 <item>e: m&emacr;te, m&ebreve;t, whêre, h&etilde;r, th&ebarb;y.
 <item>i: d&imacr;ne, d&ibreve;n.
 <item>o: n&omacr;te, n&obreve;t, fôr, d&oumlb;, s&odota;n, w&odotb;lf.
@@ -3804,25 +3807,25 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
   <lb rend="indent(1em)"><hi rend=small>(sh&abreve;m pl&amacr;n&prime;)</hi>
 <item>Ch&ebreve;r &omacr; k&eemacr;&prime;
 <item>Ch&ibreve;b&prime;&ibreve; ä b&omacr;s&prime;
-<item>Ch&obreve;k&prime;&#x227;n &ibreve; p&obreve;k
+<item>Ch&obreve;k&prime;&adota;n &ibreve; p&obreve;k
 <item>D&ebreve;l&prime;&aibrevb; wâr<hi>e</hi>
 <item>&Ebreve;sh k&obreve;s&prime;s&ibreve;m
 <item>Fl&abreve;t&prime;h&ebreve;<hi>a</hi>d
 <item>G&ebreve;n &eibrevb; s&eemacr;&prime;
-<item>&Imacr;&prime;&eibrevb; t&#x227;n
-<item>K&#x227; b&ibreve;b o n&omacr;k&prime;k&#x227;
+<item>&Imacr;&prime;&eibrevb; t&adota;n
+<item>K&adota; b&ibreve;b o n&omacr;k&prime;k&adota;
 <item>K&emacr;&prime;n<hi>e</hi>&umacr;
 <item>K&emacr;&prime;w&eemacr; n&aumlb;w
 <item>K&ibreve;&cbar;<hi>k</hi> &aibrevb; p&oomacr;&prime;
 <item>K&ibreve; m&abreve;n&prime;ch&eemacr;
-<item>K&imacr;&prime;&oibrevb; w&#x227;
+<item>K&imacr;&prime;&oibrevb; w&adota;
 <item>Kwä&prime;s&ibreve;nd
 <item>Louisiana
   <lb rend="indent(1em)"><hi rend=small>(l&oomacr;&prime;&emacr; z&emacr; ä&prime;n&aibrevb;)</hi>
 <item>M&abreve;s&prime;sä soit
-<item>M&ebreve;n d&omacr;&prime;t&#x227;
+<item>M&ebreve;n d&omacr;&prime;t&adota;
 <item>M&imacr;&prime;&abreve;n t&omacr; n&omacr;&prime;m&oibrevb;<hi>h</hi>
-<item>M&ibreve;s sä&prime;b&#x227;
+<item>M&ibreve;s sä&prime;b&adota;
 <item>Nä&prime;nä b&udotb;sh
 <item>N&abreve;tch&prime;&ebreve;z
 <item>N&emacr; n&emacr; m&omacr;&prime;sh&eemacr;
@@ -3843,7 +3846,7 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 <item>Wäh b&emacr; gwän&prime;n&eemacr;
 <item>Wä p&abreve;k&prime;&omacr;
 <item>W&ibreve;n n&ibreve; w&ibreve;s&prime;s&ibreve;
-<item>Y&abreve;n&prime;n&#x227;
+<item>Y&abreve;n&prime;n&adota;
 </list>
 
 
@@ -3874,7 +3877,7 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 
 <p><hi rend=bold lang=zxx>Ch&ibreve;p&prime; pe wa.</hi> The Ojibway nation.
 
-<p><hi rend=bold lang=zxx>D&amacr; k&omacr;&prime; t&#x227;.</hi> This name means &ldquo;united.&rdquo; The Dakotas were strong tribes and were called The Seven Council Fires. Their home was in Montana, North and South Dakota, Minnesota, and the Northwest Territory. They belong to the Sioux nation.
+<p><hi rend=bold lang=zxx>D&amacr; k&omacr;&prime; t&adota;.</hi> This name means &ldquo;united.&rdquo; The Dakotas were strong tribes and were called The Seven Council Fires. Their home was in Montana, North and South Dakota, Minnesota, and the Northwest Territory. They belong to the Sioux nation.
 
 <p><hi rend=bold lang=zxx>&Ebreve;s tu&prime; fä.</hi> Spanish name for the kiva, or secret room; also the family room in Zuñi houses.
 
@@ -3882,7 +3885,7 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 
 <p><hi rend=bold lang=zxx>H&abreve;n n&abreve;n&prime; nä.</hi> The dawn, or morning light.
 
-<p><hi rend=bold lang=zxx>H&imacr;&prime;&#x227; qu&#x227;.</hi> Siwash shell money, made of tusk shells; not wampum.
+<p><hi rend=bold lang=zxx>H&imacr;&prime; &adota; qu&adota;.</hi> Siwash shell money, made of tusk shells; not wampum.
 
 <p><hi rend=bold lang=zxx>H&imacr; a wäth&prime; a.</hi> A wonderful personage, still much honored by the Iroquois. He was very dignified, very wise, and believed to be more than mortal. There are no stories of his childhood.
 
@@ -3996,8 +3999,8 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 
 
 <list rend="columns(3)" lang=zxx>
-<item>&#x226; r&amacr;&prime; bi an
-<item>&Abreve;r i z&omacr;&prime; n&#x227;
+<item>&Adota; r&amacr;&prime; bi an
+<item>&Abreve;r i z&omacr;&prime; n&adota;
 <item>&Abreve;z&prime; t&ebreve;&cbar;
 
 <item>C&amacr; n&obreve;n&prime; i &cbar;us
@@ -4029,7 +4032,7 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 <item>K&ibreve; m&abreve;n&prime; ch&eemacr;
 <item>Kwä&prime; sind
 
-<item>Lou is i a na (l&oomacr;&prime; e ze &#x227;&prime; n&aibrevb;)
+<item>Lou is i a na (l&oomacr;&prime; e ze &adota;&prime; n&aibrevb;)
 
 <item>Man&prime; dan
 <item>M&abreve;s&prime; s&amacr; soit
@@ -4053,16 +4056,16 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 <item>Os&prime; s&emacr; &omacr;
 <item>&Omacr; w&amacr;y&prime; n&emacr; &omacr;
 
-<pb id=pb278 n=278 facs="f:289"><item>P&#x227; poose&prime;
+<pb id=pb278 n=278 facs="f:289"><item>P&adota; poose&prime;
 <item>Par&prime; lia ment
 <item>P&ebreve;nn s&ybreve;l v&amacr;&prime; n&ibreve; a
 <item>Pôr&prime; &cbar;&ubreve; p&imacr;ne
 
 <item>S&abreve;m&prime; &omacr; set
 <item>Sem&prime; &ibreve; n&omacr;le
-<item>S&ebreve;n&prime; e &cbar;&#x227;
+<item>S&ebreve;n&prime; e &cbar;&adota;
 <item>Shin&prime; g&emacr; b&ibreve;s
-<item>Ski ka (sk&eemacr;&prime; k&#x227;)
+<item>Ski ka (sk&eemacr;&prime; k&adota;)
 <item>Snell&prime; ing
 <item>Su pe&prime; ri or
 
@@ -4085,13 +4088,13 @@ Angel De Cora Dietz (1871-1919), also known by her Ho-Chunk name, Henook-Makhewe
 <item>Win&prime; ni wis&prime; si
 <item>W&ubreve;n&prime; &aumlb;u m&obreve;n
 
-<item>Y&ubreve;&cbar;e&prime; &cbar;&#x227;
+<item>Y&ubreve;&cbar;e&prime; &cbar;&adota;
 </list>
 
 
 <p rend=center>KEY TO USE OF MARKS
 
-<p>&amacr;te, târe, härm, t&#x227;sk, c&aumlb;ll; &emacr;at, s&ebreve;nd, h&emacr;r; r&imacr;ce, t&ibreve;ll; &omacr;ver, ôr, d&obreve;n; &Umacr;na, &ubreve;tter, ûrge; &cbar; as in can; ch as in chase; g as in get; sh as in she; th as in that; oi as in oil; ow as in now; &oomacr; as in cool; &eemacr; as in feel.
+<p>&amacr;te, târe, härm, t&adota;sk, c&aumlb;ll; &emacr;at, s&ebreve;nd, h&etilde;r; r&imacr;ce, t&ibreve;ll; &omacr;ver, ôr, d&obreve;n; &Umacr;na, &ubreve;tter, ûrge; &cbar; as in can; ch as in chase; g as in get; sh as in she; th as in that; oi as in oil; ow as in now; &oomacr; as in cool; &eemacr; as in feel.
 
 
 

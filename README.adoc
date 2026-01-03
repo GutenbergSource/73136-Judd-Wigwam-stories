@@ -6,15 +6,20 @@ The version maintained in this repository may be slightly out-of-sync with the v
 
 == About This Ebook
 
+[cols="1,3"]
 |===
 |Field |Value
 
 |Title |Wigwam stories told by North American Indians
-|Short title |Wigwam stories
-|Author |Mary Catherine Judd
+|Short Title |Wigwam stories
+|Author |Mary Catherine Judd (1852–1937)
 |Illustrator |Henook-Makhewe-Kelenaka (1868–1919)
 |Publisher |Project Gutenberg, Urbana, Illinois, USA., 2024-03-10
 |Publication date |2024-03-10
 |Availability |This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at https://www.gutenberg.org/[www.gutenberg.org]. This eBook is produced by the Online Distributed Proofreading Team at https://www.pgdp.net/[www.pgdp.net].
+|Number of Words |47316 (approximately 139 pages) 
+|Keyword |Indians of North America
+|Keyword |Indians of North America -- Folklore
 |PG Ebook Number |https://www.gutenberg.org/ebooks/73136[73136]
+|QR Code for download a|image::Processed/images@1/qr73136.png[QR code,148,148]
 |===
